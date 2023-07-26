@@ -26,11 +26,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 The following packages are required to run the app. You can install them using `pip`:
 
-opencv-python==4.5.3.56
-PySimpleGUI==4.58.2
-Pillow==8.3.2
-mediapipe==0.8.10
-tqdm==4.62.1
-
+see requirements.txt for modules required.
 
 
